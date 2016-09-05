@@ -1,0 +1,38 @@
+@import 'helpers';
+@import 'https://fonts.googleapis.com/css?family=Amiko';
+
+html, body {
+	padding: 0;
+	margin: 0;
+	background-size: cover;
+	font-family: 'Amiko', sans-serif;
+	font-weight: 400;
+	color: @text-color;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+* {
+	box-sizing: border-box;
+}
+body {
+	background: linear-gradient(@gradient) 50% center;
+	background-attachment: fixed;
+}
+
+#app {
+	height: 100%;
+	width: 85%;
+	margin: 0 auto;
+}
+hr {
+	margin: 0;
+	height: 2px;
+	border: 0;
+	background: linear-gradient(@gradient);
+}
+a {
+	text-decoration: none;
+	color: @blue;
+	font-weight: 600;
+}

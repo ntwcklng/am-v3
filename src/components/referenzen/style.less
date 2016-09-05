@@ -1,0 +1,25 @@
+@import '~style/helpers';
+
+.referenzen {
+	.container();
+	text-align: center;
+	list-style: none;
+}
+.referenzItem {
+	&:first-child {
+		margin-top: 20px;
+	}
+	margin-bottom: 50px;
+	a {
+		margin-bottom: 50px;
+	}
+	img {
+		max-width: 90%;
+		width: 800px;
+		transition: 120ms ease-out;
+		box-shadow: @shadow;
+		&:hover {
+			opacity: .9;
+		}
+	}
+}
