@@ -8,7 +8,8 @@
     "prestart": "npm run build",
     "build": "cross-env NODE_ENV=production webpack -p --progress",
     "prebuild": "mkdir -p build && ncp src/assets build/assets",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "deploy": "npm run build && netlify deploy"
   },
   "keywords": [
     "preact",
