@@ -1,7 +1,7 @@
 module.exports = [
 	{
 		title: "Polieren / Defektkorrektur",
-		desc: "Wir entfernen feine Kratzer (Waschanlagenkratzer, Swirls) und Hologramme. Jenachdem wie sehr dein Lack zerkratzt ist, muss dies in mehreren Durchgängen geschehen.\n Der erste Durchgang kostet rund 400€ und beinhaltet die Fahrzeugwäsche (inkl. Felgen und Einstiege), Lackreinigung mittels Knete und die erste Stufe der Defektkorrektur, wo mit einem Durchgang der beste Kompromiss aus Kratzerentfernung und Glanzsteigerung gewählt wird.\nJeder weitere Durchgang kostet rund 300€, entfernt mehr Kratzer und lässt deinen Lack noch mehr glänzen.",
+		desc: "Wir entfernen feine Kratzer (Waschanlagenkratzer, Swirls) und Hologramme. Je nachdem wie sehr dein Lack zerkratzt ist, muss dies in mehreren Durchgängen geschehen.\n Der erste Durchgang kostet rund 400€ und beinhaltet die Fahrzeugwäsche (inkl. Felgen und Einstiege), Lackreinigung mittels Knete und die erste Stufe der Defektkorrektur, wo mit einem Durchgang der beste Kompromiss aus Kratzerentfernung und Glanzsteigerung gewählt wird.\nJeder weitere Durchgang kostet rund 300€, entfernt mehr Kratzer und lässt deinen Lack noch mehr glänzen.",
 		price: 400
 	},
 	{
