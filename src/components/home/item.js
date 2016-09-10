@@ -5,7 +5,7 @@ export default class LeistungenItem extends Component {
 	render({data}) {
 		let infos = null;
 		if (data.infos) {
-			infos = <span> | Weitere Infos: <a href={data.infos[0].url}>{data.infos[0].title}</a></span>;
+			infos = <span> | Weitere Infos: <a href={data.infos[0].url} target="_blank">{data.infos[0].title}</a></span>;
 		}
 		return (
 			<li class={style.leistungenItem}>
