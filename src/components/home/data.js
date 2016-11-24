@@ -14,10 +14,10 @@ module.exports = [
 				title: "Gtechniq Crystal Serum"
 			}
 		]
-	},
-	{
-		title: "Seminare - Schulungen",
-		desc: "Verbessere deine Poliertechnik im Einzelseminar oder lerne die Grundlagen der Fahrzeugpflege in einer Gruppenschulung - individuelle Schulungen perfekt auf dich oder deine Gruppe abgestimmt.",
-		price: 129
 	}
+	// {
+	// 	title: "Seminare - Schulungen",
+	// 	desc: "Verbessere deine Poliertechnik im Einzelseminar oder lerne die Grundlagen der Fahrzeugpflege in einer Gruppenschulung - individuelle Schulungen perfekt auf dich oder deine Gruppe abgestimmt.",
+	// 	price: 129
+	// }
 ];
