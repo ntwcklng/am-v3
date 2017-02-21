@@ -1,4 +1,4 @@
-import { Component } from 'preact'
+import { h, Component } from 'preact'
 import style from './style'
 import Referenzen from '../referenzen'
 import LeistungenData from './data.js'
