@@ -14,7 +14,7 @@ export default class Impressum extends Component {
 				<p>Verantwortlich für den Inhalt:</p>
 				<p>Autopflege Mieth<br />
 				Inhaber Marvin Mieth<br />
-				Clemens-August-Str. 87<br />
+				Bussardstr. 22<br />
 				46282 Dorsten</p>
 				<p>Standort Halle: Marienstr. 41
 				46284 Dorsten</p>
